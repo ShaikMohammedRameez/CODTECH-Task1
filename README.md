@@ -1,1 +1,3 @@
-# CODTECH-Task1
+NAME:SHAIK MOHAMMED RAMEEZ COMPANY:CODTECH IT SOLUTIONS ID:CT8PP1316 DOMAIN:PYTHON PROGRAMMING DURATION:20TH JUNE TO 20TH AUGUST , 2024 MENTOR:MUZAMMIL AHMAD OVERVIEW OF THE PROJECT: PROJECT:PYTHON PROGRAM FOR SIMPLE CALCULATOR The objective of the project is to perform various arithmetic opeartions like (addition,subtraction,multiplication and division)
+KEY ACTIVITIES:In this project key activities to obserb the various arithmetic operations performed by the using simple calculator. TECHNOLOGIES USED:PYTHON
+![Screenshot (13)](https://github.com/ShaikMohammedRameez/CODTECH-Task1/assets/174429783/27e7a7b6-98d9-4a66-9636-dccdbecf8467)
